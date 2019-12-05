@@ -21,7 +21,7 @@ export default class About extends Component {
         return(
             <Layout title='About'>
                 <p>{user.name}</p>
-                <img src={user.avatar_url} alt='Koussay Khelil' height='200px' />
+                <img src={user.avatar_url} alt='Koussay Khelil' height='250px' />
             </Layout>
         )
     }

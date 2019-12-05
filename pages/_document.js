@@ -7,7 +7,7 @@ export default class MyDocument extends Document {
         return(
             <html>
                 <Head>
-                <meta name='description' content='A portfolio' />
+                <meta name='description' content='A portfolio that is SEO Friendly' />
                 <meta charset='utf-8' />
                 <meta name='robots' content='noindex, nofollow' />
                 <meta name='viewport' content='width=device-width' />

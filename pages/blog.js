@@ -14,6 +14,7 @@ export default () => (
         <PostLink slug="react-post" title='React'/>
         <PostLink slug="angular-post" title='Angular'/>
         <PostLink slug="redux-post" title='Redux'/>
+        <PostLink slug="nextJS-post" title='NextJS'/>
         </ul> 
         <style jsx>{`
         ul {

@@ -13,7 +13,6 @@ export default () => (
         <ul>
         <PostLink slug="react-post" title='React'/>
         <PostLink slug="angular-post" title='Angular'/>
-        <PostLink slug="vue-post" title='Vue'/>
         <PostLink slug="redux-post" title='Redux'/>
         </ul> 
         <style jsx>{`

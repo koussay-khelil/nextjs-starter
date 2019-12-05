@@ -3,7 +3,7 @@ import {withRouter} from 'next/router'
 
 const Post =  ({router}) => (
     <Layout title={router.query.title}>
-        <p style={{width: '80 vw'}}>lorem ipsum bla bla bla</p>
+        <p style={{width: '80 vw'}}>this is a test</p>
         
     </Layout>
 )
